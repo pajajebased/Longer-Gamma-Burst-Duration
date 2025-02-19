@@ -17,4 +17,4 @@
 ###
 
 # Infinite Gamma Burst duration
-SparkPatchEntry,(1,2,0,),/Game/PlayerCharacters/_Shared/_Design/Balance/Beastmaster/DataTable_Beastmaster_SkillBalance.DataTable_Beastmaster_SkillBalance,Skill_PetEnrage,Secondary_21_5ED678CA4FB7C9C602D841A55EDD67B9,0,,1000.0
+SparkPatchEntry,(1,2,0,),/Game/PlayerCharacters/_Shared/_Design/Balance/Beastmaster/DataTable_Beastmaster_SkillBalance.DataTable_Beastmaster_SkillBalance,Skill_PetEnrage,Secondary_21_5ED678CA4FB7C9C602D841A55EDD67B9,0,,180.0
